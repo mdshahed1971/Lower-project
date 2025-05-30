@@ -38,3 +38,49 @@ Myburgh, Esq.</h2>
 </div>
 </div>
 </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="flex justify-center ">
+<input type="text" placeholder="First Name" class="bg-[#28377e] rounded-none border-b-2 border-solid border-black text-white text-lg font-medium pr-20 input w-96" />
+</div>
+
+
+<div class="flex justify-center ">
+<input type="" placeholder="E-mail" class="bg-[#28377e] border-none  text-white text-lg font-medium pr-20 input w-96" />
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="flex justify-center">
+  <a class="text-white text-lg font-medium mr-96 border-y-4 border-solid border-[#28377e]">First Name</a>
+</div>
